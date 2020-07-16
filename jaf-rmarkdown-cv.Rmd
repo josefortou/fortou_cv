@@ -1,0 +1,123 @@
+---
+output: 
+  pdf_document:
+    latex_engine: pdflatex
+    template: template/jaf-latex-cv.tex
+geometry: margin=1in
+
+title: "CV"
+author: Jose Antonio Fortou
+
+citeproc: true
+bibliography: bib/bib_fortou.bib
+#csl: apa-6th-edition-no-ampersand.csl
+csl: csl/chicago-syllabus-no-bib.csl
+#csl: altmejd-cv.csl
+
+jobtitle: "Assistant Professor, Department of Government and Political Sciences"
+address: "Bloque 38, Office 431 · Universidad EAFIT · Medellín, CO"
+fontawesome: yes
+email: jfortour@eafit.edu.co
+github: josefortou
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+#phone: "+57 4 2619500"
+web: www.josefortou.com
+updated: yes
+
+keywords: R Markdown, academic CV, template
+
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: blue
+urlcolor: blue
+---
+
+# Academic Positions
+
+*Universidad EAFIT*
+
+Coordinator, DataPOL Lab \hfill 2019-
+
+Assistant Professor \hfill 2018-
+
+Research Assistant \hfill 2010-2013
+
+# Education
+
+*The Ohio State University*, PhD in Political Science \hfill 2019
+
+  - Dissertation: *Political Participation After Civil Conflict: Nationalization, Militant Groups, and Subnational Democracy*. Committee: Sarah M. Brooks (chair), Christopher F. Gelpi \ & Jan H. Pierskalla.
+
+*The Ohio State University*, MA in Political Science \hfill 2015
+
+*Universidad EAFIT*, BA in Political Sciences \hfill 2010
+
+# Publications
+
+<!-- ## Dissertation -->
+
+<!-- [@Fortou2019] -->
+
+## Books
+
+[@Munozetal2020]
+
+## Peer-Reviewed Articles
+
+[@GiraldoFortouGomez2019]
+
+[@Fortou2016]
+
+[@Leyvaetal2013]
+
+[@GiraldoFortou2012_Urvio]
+
+[@GiraldoFortou2011]
+
+# Work in Progress
+
+*Paz y competencia electoral: elecciones locales en Colombia, 2019*, with S. Sosa (*Under review*).
+
+*¡No es manteca, es mermelada! La distribución política del presupuesto en el gobierno Santos en Colombia*, with S. Leyva Botero \& C. Mejía (*Under review*).
+
+*Electoral Rules and Militant Group Electoral Participation*.
+
+*Political Engagement After Civil Conflict*.
+
+*Party System Nationalizacion After Civil Conflict*.
+
+*Control and Land Concentration During Civil War: Evidence from Colombia*, with J.-C. Muñoz-Mora \& S. Johansson.
+
+*Vote Choice in Post-Conflict Settings*, with A. M. Bernal, M. Bran, J. J. Ocampo, R. Restrepo, \& S. Sosa.
+
+# Other Publications
+
+[@Fortou2017]
+
+[@GiraldoFortou2014b]
+
+[@Fortouetal2013a]
+
+[@Fortouetal2013b]
+
+[@Fortouetal2013c]
+
+# Grants and Awards
+
+*Graduate Research Fellow*, Mershon Center for International Security Studies, The Ohio State University (2016--2017).
+
+*Graduate Student Research Grant*, Department of Political Science, The Ohio State University (2014, 2015).
+
+*Matching Tuition and Stipend Award*, The Graduate School of Arts \& Sciences, The Ohio State University (2013--2019).
+
+*Beca de Posgrado para las Regiones* graduate studies fellowship, Fulbright Commission \& Colombian Ministry of Education (2013--2015).
+
+*Jóvenes Investigadores e Innovadores* research grant, Colciencias (2012--2013).
+
+# Skills
+
+*Programming*: data analysis in `R` (advanced).
+
+*Languages*: fluent in Spanish (native) and English (advanced). Reading comprehension in French and Portuguese (basic).
